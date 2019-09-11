@@ -1,0 +1,8 @@
+.footer {
+  @extend .header;
+   p {
+     font-family:$mainFont;
+     color:#fff;
+     text-align:center;
+   }
+}

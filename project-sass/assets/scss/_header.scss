@@ -1,0 +1,11 @@
+.header{
+  font-family: $mainFont;
+  background: $backgroundColor;
+   ul {
+     list-style-type: none;
+     li {
+       display: inline-block;
+       padding:$liPadding;
+     }
+   }
+ }

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import 'variables.scss';
+@import 'reset.scss';
+@import 'header.scss';
+body {
+  background: $backgroundColor;
+  font-family: Roboto;
+}
+@import 'footer.scss';
